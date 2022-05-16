@@ -1,0 +1,3 @@
+[submodule "matsim-code-examples"]
+	path = matsim-code-examples
+	url = https://github.com/matsim-org/matsim-code-examples.git
